@@ -1,3 +1,3 @@
-## Rocketseat Ignite ReactJS
+# Rocketseat Ignite ReactJS
 
-# Criando hook de carrinho de compras
+## Criando hook de carrinho de compras
